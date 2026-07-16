@@ -1,6 +1,5 @@
-## Hi there
-
-I'm frontdex, a passionate frontend developer who loves turning ideas into beautiful, interactive user experiences.
+## Hi There
+I'm Kamsi, a passionate frontend developer who loves turning ideas into beautiful, interactive user experiences.
 
 ### About Me
 
@@ -15,4 +14,4 @@ When I'm not coding, you'll find me enjoying a good slice of pizza. It's the per
 - Designing delightful user experiences
 - Exploring the latest frontend technologies
 
-Feel free to check out my projects and let's collaborate!
+Feel free to check out my projects
